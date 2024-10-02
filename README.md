@@ -1,6 +1,5 @@
 
 # Sentimental-Analyzer
-### Website link:
 
 
 ## Abstract:

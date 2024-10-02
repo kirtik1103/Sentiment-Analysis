@@ -2,7 +2,6 @@
 # Sentimental-Analyzer
 ### Website link:
 
-https://pankajsharma99.pythonanywhere.com/
 
 ## Abstract:
 
@@ -21,11 +20,6 @@ The key benefits of combining timestamp analysis, audio analysis, and VADER for 
 •	Data-Driven Decision-Making: VADER's sentiment scores facilitate data-driven decision-making by quantifying sentiment trends and intensity.
 
 •	Proactive Reputation Management: Brands can proactively manage their reputation by identifying and addressing negative sentiment early on.
-
-![Screenshot_2024-01-12-00-03-36-48_e2d5b3f32b79de1d45acd1fad96fbb0f](https://github.com/pnkjshrma99/Sentimental-Analyzer/assets/114305058/0e6cac74-4c08-4600-96cb-f7df6556d315)
-![Screenshot_2024-01-12-00-11-39-24_e2d5b3f32b79de1d45acd1fad96fbb0f](https://github.com/pnkjshrma99/Sentimental-Analyzer/assets/114305058/cd5aaef6-f7b2-4d90-924d-479108fd5da9)
-
-
 
 ## Conclusion 
 By continuously monitoring sentiment across multiple data sources, brands can adapt their strategies, respond to customer feedback, and ensure their products or services align with customer expectations, ultimately contributing to brand loyalty and success.

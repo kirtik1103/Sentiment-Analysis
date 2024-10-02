@@ -1,0 +1,33 @@
+<!-- results.html -->
+
+<html>
+<body>
+
+<h2>Results for {{ keyword }}</h2>
+
+<!-- Add the plots or visualizations here -->
+<!-- You can pass the plot data from Flask to the template using variables -->
+<table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Link</th>
+        <th>Comment ID</th>
+        <th>Time</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in data %}
+        <tr>
+          <td>{{ row['title'] }}</td>
+          <td>{{ row['author'] }}</td>
+          <td>{{ row['link'] }}</td>
+          <td>{{ row['comment_ID'] }}</td>
+          <td>{{ row['time'] }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</body>
+</html>
